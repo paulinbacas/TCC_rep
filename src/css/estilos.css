@@ -1,0 +1,26 @@
+html{
+    color: #fff;
+}
+
+body{
+    background-color: #282828;
+    font-family: "Poppins", sans-serif;
+    margin: 0 auto;
+    max-width: 1120px;
+}
+
+.rodape{
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 15px;
+}
+
+.rodape .indicacao .ind1{
+    background-color: orange;
+}
+
+.rodape .indicacao .ind2{
+    font-size: 20px;
+}
